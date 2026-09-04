@@ -1,1 +1,8 @@
-
+{
+  "name": "elite-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
